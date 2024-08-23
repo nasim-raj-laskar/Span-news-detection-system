@@ -8,3 +8,34 @@ This project focuses on detecting fake news using machine learning techniques. I
 5. Results: Final results and conclusions about the model's performance are documented, highlighting strengths and areas for improvement.
    
 The project showcases how machine learning can be applied to combat misinformation by developing systems that automatically detect deceptive content in news articles.
+
+
+##Quickstart Guide
+
+1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+```
+2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+3. Download Dataset
+   
+  Download the dataset here and place it in the project directory.
+
+5. Run the Project
+   
+For Jupyter Notebook:
+```bash
+jupyter notebook
+```
+Open and run `span_news_detection_project.ipynb`.
+
+For Python script:
+```bash
+python main.py
+```
